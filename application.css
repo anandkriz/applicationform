@@ -1,0 +1,155 @@
+*
+{
+	padding: 0px;
+	margin: 0;
+}
+.main
+{
+height:100%;
+width: 100%;
+border: 1px solid red;
+}
+
+.head
+{
+	height: 100px;
+    width: 35%;
+    margin-top: 21px;
+    margin-left: 181px;
+    background-image: url(OrisysLogo.png);
+    background-size: 100%100%;
+}
+.mid
+{
+	border: 2px solid black;
+	height: 690px;
+	width: 422px;
+margin-left: 185px;
+margin-top: 30px;
+padding-left: 8px;
+}
+
+.tex
+{
+	height: 26px;
+	width: 280px;
+	margin-left: 91px;
+}
+.tex1
+{
+	height: 26px;
+	width: 280px;
+	margin-left: 103px;
+}
+.tex2
+{
+	height: 26px;
+	width: 280px;
+	margin-left: 93px;
+}
+.tex3
+{
+	height: 26px;
+	width: 280px;
+	margin-left:75px;
+}
+.tex4
+{
+	height: 26px;
+	width: 280px;
+	margin-left: 46px;
+}
+.tex5
+{
+	height: 26px;
+    width: 280px;
+    margin-left: 52px;
+}
+.text
+{
+	margin-left: 22px;kh
+	height: 26px;
+	width: 220px;
+}
+.text1
+{
+margin-left: 15px;
+	height: 26px;
+	width: 220px;
+}
+.text2
+{
+margin-left: 37px;
+width: 279px;
+}
+.text3
+{
+margin-left: 21px;
+width: 279px;
+}
+@media only screen and (max-width:500px)
+{
+
+.head
+{
+	margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+}
+.mid
+{
+	height:100%;
+	width: 100%;
+	/*padding: 2.5px;*/
+	box-shadow: 9px;
+margin-left: 0px;
+margin-top: 30px;
+padding-left: 0px;
+}
+.tex{
+	height: 26px;
+	width: 60%;
+	margin-left:81px;
+}
+.tex1
+{
+	height: 26px;
+	width: 60%;
+	margin-left: 93px;
+}
+.tex2
+{
+	height: 26px;
+	width: 60%;
+	margin-left: 83px;
+}
+.tex3
+{
+	height: 26px;
+	width: 60%;
+	margin-left: 65px;
+}
+.tex4
+{
+	height: 26px;
+	width: 60%;
+	margin-left: 35px;
+}
+.tex5
+{
+	height: 26px;
+    width:60%;
+    margin-left: 40px;
+}
+
+.text2
+{
+margin-left: 28px;
+width: 60%;
+}
+.text3
+{
+margin-left: 10px;
+width: 60%;
+}
+}
